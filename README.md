@@ -47,6 +47,7 @@ Our core manipulation involves six levels of escalating semantic and psychologic
 │ └── utils/ # Helper functions and configuration
 ├── personas/ # The .txt files for every persona prompt, organized by Gauntlet level
 ├── data/ # Raw (JSONL) and processed (CSV) data
+├── notebooks/ # jupyter notebooks
 ├── results/ # Generated figures, tables, and model summaries
 ├── environment.yml # Conda environment for a fully reproducible setup
 ├── requirements.txt # Python dependencies for pip
